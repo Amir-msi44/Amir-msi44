@@ -20,11 +20,11 @@
 - ⚡ In my free time I play heavy boardgames and explore History.
 ## **Language and Tools**
 <div align="left">
-  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/762b68b8-eb19-4cfd-a92b-62347ce160da"  />
+  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/762b68b8-eb19-4cfd-a92b-62347ce160da" height="40" alt="python logo" />
   <img width="1" />
-  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/b1dbb79f-2fc3-4c1d-905f-bbdeaec800f2"  />
+  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/b1dbb79f-2fc3-4c1d-905f-bbdeaec800f2" height="40" alt="Django logo" />
   <img width="1" />
-  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/4f10b791-76d1-4597-8371-3562e4f163c6"  />
+  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/4f10b791-76d1-4597-8371-3562e4f163c6" height="40" alt="Jupyter logo" />
   <img width="1" />
 </div>
 <!---
