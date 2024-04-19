@@ -9,13 +9,13 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alireza-a2f.alireza-a2f&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amir-msi44.Amir-msi44&"  />
 </div>
 
 ###    
 
 # **👋Hi, I’m Amirreza Masoumi**
-- 👀 I’m a civil engineer and research for integration of programming and AI with Civil Engineering concepts. 
+- 👀 I’m a civil engineer and research for integration of AI with Civil Engineering concepts. 
 - 📚 I’m currently learning Machine Learning and Deep Learning, and I'm passionate to become a data scientist as well.
 - ⚡ In my free time I play heavy boardgames and explore History.
 ## **Language and Tools**
