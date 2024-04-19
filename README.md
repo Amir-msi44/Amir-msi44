@@ -9,7 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Amir-msi44.Amir-msi44&"  />
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmir-msi44&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true"/>
+ </a>
 </div>
 
 ###    
@@ -18,14 +19,14 @@
 - 👀 I’m a civil engineer and research for integration of AI with Civil Engineering concepts. 
 - 📚 I’m currently learning Machine Learning and Deep Learning, and I'm passionate to become a data scientist as well.
 - ⚡ In my free time I play heavy boardgames and explore History.
-## **Language and Tools**
-<div align="left">
-  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/762b68b8-eb19-4cfd-a92b-62347ce160da" height="40" alt="python logo" />
-  <img width="1" />
-  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/b1dbb79f-2fc3-4c1d-905f-bbdeaec800f2" height="40" alt="Django logo" />
-  <img width="1" />
-  <img src="https://github.com/Amir-msi44/Amir-msi44/assets/154964674/4f10b791-76d1-4597-8371-3562e4f163c6" height="40" alt="Jupyter logo" />
-  <img width="1" />
+
+## ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535)  ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amir-msi44&show_icons=true&locale=en&layout=compact" alt="Amirreza" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-msi44&" alt="Amirreza" />
 </div>
 <!---
 Amir-msi44/Amir-msi44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
