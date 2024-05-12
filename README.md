@@ -24,8 +24,10 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535)  ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
-<div>
+<div align='center'>
+  <!--- 
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amir-msi44&show_icons=true&locale=en&layout=compact" alt="Amirreza" />
+  --->
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-msi44&" alt="Amirreza" />
 </div>
 <!---
